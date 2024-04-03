@@ -26,11 +26,10 @@ flowchart TB
     Visualisation_des_Données --> Nettoyage_des_Données
     Nettoyage_des_Données --> Relation_Âge-Prix
     Relation_Âge-Prix --> Régression_Linéaire_Univariée
-    Relation_Âge-Prix --> Relations_Supplémentaires --> Régression_Linéaire_Multivariée
     Régression_Linéaire_Univariée --> Régression_Linéaire_Multivariée
     Régression_Linéaire_Multivariée --> Évaluation_des_Modèles
-    Régression_Linéaire_Multivariée --> Cas_Pratique
-    Évaluation_des_Modèles & Cas_Pratique --> Conclusion
+    Évaluation_des_Modèles --> Cas_Pratique
+    Cas_Pratique --> Conclusion
 ```
 
 ## Analyse des données
