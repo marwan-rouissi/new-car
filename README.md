@@ -12,7 +12,7 @@ Avec pour but de répondre à la requête de Martin :
 Martin souhaite acheter un véhicule ayant moins de 7 ans, pas plus de 100 000 km, avec une boite manuelle. Aidez Martin à estimer le prix d’une voiture avec ces caractéristiques.
 
 ## Contenu :
-- un notebook Python `EDA.ipynb` dans lequel se trouve :
+- un notebook Python `eda_linreg.ipynb` dans lequel se trouve :
     - l'analyse exploratoire du jeu de données qui nous a été fournis dans le cadre de ce projet
     - la modélisation de ces données (data visualisation + prédiction du prix des voitures)
 
